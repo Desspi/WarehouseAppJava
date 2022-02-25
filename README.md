@@ -1,1 +1,1 @@
-# WarehouseAppJava
+The application allows you to manage the warehouse. Add and remove products, customers, suppliers, carriers and create new orders. The application supports writing and reading from csv files and serialization.
